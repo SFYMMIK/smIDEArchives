@@ -11,3 +11,4 @@ This repository exclusively contains archived versions of smIDE that Aren't in u
 - [Version 1.1 (1.0 and 1.1 in one)]
 - [Version 1.2]
 - [Version 1.3]
+- [Version 1.4]
